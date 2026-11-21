@@ -1,0 +1,11 @@
+# Power BI local cache and temporary files
+.pbi/
+*.tmp
+# Operating system files
+.DS_Store
+Thumbs.db
+# R and Python local files
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
